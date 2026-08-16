@@ -1,0 +1,11 @@
+vosk
+opencv-python
+pillow
+numpy
+sounddevice
+scipy
+langdetect
+requests
+playsound==1.2.2
+edge-tts
+gTTS
